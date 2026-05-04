@@ -3,6 +3,10 @@
 ## Overview
 This repository contains a modular machine learning pipeline designed to transform unstructured public grievance text into structured, actionable information for administrative decision-making. The system processes complaint data through multiple analytical stages, from initial data cleaning to final resolution-time prediction and citizen feedback analysis.
 
+<p align="center">
+  <img src="Architecture/Grievance_Redressal_System_Architecture.gif" width="700"/>
+</p>
+
 ## Pipeline Modules
 The framework is divided into seven sequential stages:
 1. **Data Acquisition & Preprocessing:** Cleans and normalizes raw complaint text.
